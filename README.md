@@ -15,3 +15,5 @@ Install dependencies:
 ```bash
 pip install blueye-sdk requests
 ```
+
+Please read the _how_to_blueye.pdf_ to know how to start the vehicle. 
