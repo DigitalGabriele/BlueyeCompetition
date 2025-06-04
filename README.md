@@ -13,7 +13,7 @@ This repository contains standalone Python scripts that demonstrate how to contr
 Install dependencies:
 
 ```bash
-pip install blueye-sdk requests
+pip install blueye-sdk
 ```
 
 Please read the _how_to_blueye.pdf_ to know how to start the vehicle. 
